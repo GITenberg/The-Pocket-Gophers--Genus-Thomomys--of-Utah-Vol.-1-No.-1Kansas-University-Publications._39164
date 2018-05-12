@@ -9,7 +9,7 @@ creator:
     aliases:
     - Durrant, S. D. (Stephen David)
     - Durrant, Stephen D.
-    birthdate: &id001 1902
+    birthdate: 1902
     deathdate: 1975
     gutenberg_agent_id: '35240'
     url: http://www.gutenberg.org/2009/agents/35240
@@ -20,7 +20,7 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37477
   - agent_name: Hall, E. Raymond (Eugene Raymond)
     alias: Hall, Eugene Raymond
-    birthdate: *id001
+    birthdate: 1902
     deathdate: 1986
     gutenberg_agent_id: '26108'
     url: http://www.gutenberg.org/2009/agents/26108
@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '38178'
     url: http://www.gutenberg.org/2009/agents/38178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39164#The-Pocket-Gophers--Genus-Thomomys--of-Utah-Vol.-1-No.-1Kansas-University-Publications.
 gutenberg_issued: '2012-03-17'
 gutenberg_type: Text
 identifiers:
